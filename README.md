@@ -85,8 +85,11 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 ## OUTPUT:
+## Client:
+![WhatsApp Image 2025-04-24 at 07 54 12_51484d42](https://github.com/user-attachments/assets/08465d51-3cae-4d55-8718-7f08ae6279f7)
 
-![Screenshot 2025-04-17 045859](https://github.com/user-attachments/assets/c62c1b97-6545-4343-8fad-fee1fc4b09fb)
+## Server:
+![WhatsApp Image 2025-04-24 at 07 54 08_3bc9494d](https://github.com/user-attachments/assets/dbd576bf-7002-4be5-b1f5-e3243a2f7224)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
